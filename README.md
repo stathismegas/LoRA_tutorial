@@ -4,7 +4,7 @@ We create a simple tutorial to finetune pre-trained BLOOM (1b7) from hugging fac
 
 The code has been adapted from https://www.youtube.com/watch?v=iYr1xZn26R8
 
-Hugging Face implementation are constantly updated, this runs without bugs on 21/008/2024.
+Hugging Face implementations are constantly updated, this runs without bugs on 21/08/2024.
 
 More specifically the notebook above
 * loads pretrained BLOOM from hugging face
